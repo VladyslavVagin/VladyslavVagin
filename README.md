@@ -75,6 +75,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VladyslavVagin/VladyslavVagin/output/snake.svg" alt="Snake animation" />
-
 ###
