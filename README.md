@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vladyslav and I'm a Frontend Web Developer (and MERN stack ) from Ukraine</h2>
+<h2 align="left">Hi 👋! My name is Vladyslav and I'm a Frontend and MERN-stack Web Developer</h2>
 
 - 👀 I’m interested in web development, hiking and playing the guitar
 - 💞️ I’m looking to collaborate on web-projects 
