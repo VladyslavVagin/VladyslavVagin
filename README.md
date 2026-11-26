@@ -63,12 +63,18 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_vvladyslavv_/?locale=%E9%AB%98%E4%BB%BF%E6%9C%9D%E9%B2%9C%E5%B1%85%E4%BD%8F%E8%AF%81%E8%81%94%E7%B3%BB%7B%E5%A8%81%E4%BF%A1%2BTG%2F%E9%A3%9E%E6%9C%BA%3A%40buth2788%7D29tQU%3F%3F%3F%3F%3F%3F%D1%A7%3F%3F%C6%BEKoImG&hl=ro" target="_blank">
+  <a href="https://www.instagram.com/_vvladyslavv_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vladyslav-vagin-devfrontend/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VladyslavVagin/VladyslavVagin/output/snake.svg" alt="snake animation" />
 </div>
 
 ###
